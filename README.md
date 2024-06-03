@@ -1,0 +1,1 @@
+# GeoWordle-DATA
