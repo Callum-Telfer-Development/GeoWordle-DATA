@@ -650,6 +650,16 @@
     "Longitude": 25.013607
   },
   {
+    "Country": "Eswatini",
+    "Region": "SUB-SAHARAN AFRICA",
+    "Population": 1136334,
+    "Area": 17363,
+    "popDens": 65.5,
+    "GDPPC": 4900,
+    "Latitude": -26.522503,
+    "Longitude": 31.465866
+  },
+  {
     "Country": "Ethiopia",
     "Region": "SUB-SAHARAN AFRICA",
     "Population": 74777981,
@@ -1938,16 +1948,6 @@
     "GDPPC": 4000,
     "Latitude": 3.919305,
     "Longitude": -56.027783
-  },
-  {
-    "Country": "Swaziland",
-    "Region": "SUB-SAHARAN AFRICA",
-    "Population": 1136334,
-    "Area": 17363,
-    "popDens": 65.5,
-    "GDPPC": 4900,
-    "Latitude": -26.522503,
-    "Longitude": 31.465866
   },
   {
     "Country": "Sweden",
