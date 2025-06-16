@@ -529,7 +529,7 @@
   },
   {
     "Country": "Cyprus",
-    "Region": "MIDDLE EAST",
+    "Region": "EASTERN EUROPE",
     "Population": 784301,
     "Area": 9250,
     "popDens": 84.8,
@@ -605,7 +605,7 @@
     "Flag": "do"
   },
   {
-    "Country": "East Timor",
+    "Country": "Timor-Leste",
     "Region": "ASIA",
     "Population": 1062777,
     "Area": 15007,
@@ -1166,6 +1166,17 @@
     "Flag": "ki"
   },
   {
+    "Country": "Kosovo",
+    "Region": "EASTERN EUROPE",
+    "Population": 1800000,
+    "Area": 10887,
+    "popDens": 165.3,
+    "GDPPC": 4300,
+    "Latitude": 42.67,
+    "Longitude": 21.17,
+    "Flag": "xk"
+  },
+  {
     "Country": "Kuwait",
     "Region": "MIDDLE EAST",
     "Population": 2418393,
@@ -1297,17 +1308,7 @@
     "Longitude": 113.543873,
     "Flag": "mo"
   },
-  {
-    "Country": "Macedonia",
-    "Region": "EASTERN EUROPE",
-    "Population": 2050554,
-    "Area": 25333,
-    "popDens": 80.9,
-    "GDPPC": 6700,
-    "Latitude": 41.608635,
-    "Longitude": 21.745275,
-    "Flag": "mk"
-  },
+
   {
     "Country": "Madagascar",
     "Region": "SUB-SAHARAN AFRICA",
@@ -1485,6 +1486,17 @@
     "Flag": "mn"
   },
   {
+    "Country": "Montenegro",
+    "Region": "EASTERN EUROPE", 
+    "Population": 628000,
+    "Area": 13883,
+    "popDens": 45.2,
+    "GDPPC": 7900,
+    "Latitude": 42.5,
+    "Longitude": 19.3,
+    "Flag": "me"
+  },
+  {
     "Country": "Montserrat",
     "Region": "LATIN AMER. & CARIB",
     "Population": 9439,
@@ -1659,6 +1671,17 @@
     "Latitude": 40.339852,
     "Longitude": 127.510093,
     "Flag": "kp"
+  },
+  {
+    "Country": "North Macedonia",
+    "Region": "EASTERN EUROPE",
+    "Population": 2050554,
+    "Area": 25333,
+    "popDens": 80.9,
+    "GDPPC": 6700,
+    "Latitude": 41.608635,
+    "Longitude": 21.745275,
+    "Flag": "mk"
   },
   {
     "Country": "Norway",
@@ -2068,6 +2091,17 @@
     "Flag": "kr"
   },
   {
+    "Country": "South Sudan",
+    "Region": "SUB-SAHARAN AFRICA",
+    "Population": 12200000,
+    "Area": 644329,
+    "popDens": 18.9,
+    "GDPPC": 1100,
+    "Latitude": 7.0,
+    "Longitude": 30.0,
+    "Flag": "ss"
+  },
+  {
     "Country": "Spain",
     "Region": "WESTERN EUROPE",
     "Population": 40397842,
@@ -2377,7 +2411,7 @@
   },
   {
     "Country": "Uzbekistan",
-    "Region": "C.W. OF IND. STATES",
+    "Region": "ASIA",
     "Population": 27307134,
     "Area": 447400,
     "popDens": 61,
